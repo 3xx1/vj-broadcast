@@ -1,0 +1,27 @@
+{
+  "name": "ddr",
+  "version": "1.0.0",
+  "description": "digital design research toolkit proto dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://hidekazu.saegusa%40frogdesign.com@gitus.frogdesign.com/scm/~hidekazu.saegusa_frogdesign.com/ddr.git"
+  },
+  "author": "Kaz Saegusa",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.6",
+    "watchify": "^3.7.0"
+  }
+}
